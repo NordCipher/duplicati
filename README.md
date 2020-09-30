@@ -1,4 +1,4 @@
-# Duplicati
+# Duplicati for comfy mod
 Store securely encrypted backups on cloud storage services!
 
 <!---
